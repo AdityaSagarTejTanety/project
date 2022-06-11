@@ -1,0 +1,54 @@
+07-06-2022
+CLI---- Command line interface
+GUI---- Graphical userinterface
+cd----change directory
+cd ..----- back
+cls--- clear screen
+-v----version
+npm--- node package manger
+npx---- node package execute
+nvm--- node version manager
+rcc--- react class component
+rfc---react functionalcomponet
+
+.break    Sometimes you get stuck, this gets you out
+.clear    Alias for .break
+.editor   Enter editor mode
+.exit     Exit the REPL
+.help     Print this help message
+.load     Load JS from a file into the REPL session
+.save     Save all evaluated commands in this REPL session to a file
+
+Press Ctrl+C to abort current expression, Ctrl+D to exit the REPL
+
+
+React:
+
+npx create-react-app
+
+08-06-2022
+
+nvm---- for installing latest versions of nodejs
+nvm install (version number)
+nvm use (version number)
+
+npm run build ----deployment
+
+npm test ---- testing the appalication
+
+ctrl=?--- commenting in vs code.
+
+10-06-2022
+
+Export and import in react / javascript es6:
+
+**you have to always export a component then only we use in another file or component.
+**you can call (import) that component name with any other value but the file nameneed tobe same at the path(./)
+
+Exporting without defalt:
+
+** We can export multiple components in a same file but not in a default manner. So, we need to import those multiple components using {}.
+
+selectors:
+
+s
